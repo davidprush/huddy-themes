@@ -1,0 +1,10 @@
+*.vsix
+node_modules/
+.vscode-test/
+evidence/
+*.log
+.DS_Store
+._*
+.venv/
+__pycache__/
+*.pyc

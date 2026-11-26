@@ -1,0 +1,42 @@
+{
+  "name": "huddy-theme",
+  "publisher": "davidprush",
+  "displayName": "HUDdy",
+  "description": "HUDdy: the dark heads-up-display theme from NuzeHub, Dirlume and SSHush",
+  "version": "1.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "David Rush"
+  },
+  "homepage": "https://davidprush.com",
+  "icon": "icon-huddy.png",
+  "galleryBanner": {
+    "color": "#080e19",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "hud",
+    "huddy",
+    "cyan",
+    "terminal",
+    "nuzehub",
+    "color theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "HUDdy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/HUDdy-color-theme.json"
+      }
+    ]
+  }
+}

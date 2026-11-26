@@ -1,0 +1,25 @@
+# HUDdy for Ghostty 1.1 — HUDdy Soft Contrast Spec 1.0. MIT, David Rush.
+# Install: ~/.config/ghostty/themes/HUDdy, then `theme = HUDdy` in your Ghostty config.
+palette = 0=#2e3744
+palette = 1=#ff5470
+palette = 2=#3dffa8
+palette = 3=#ffb547
+palette = 4=#64d2ff
+palette = 5=#c792ff
+palette = 6=#5ee1ff
+palette = 7=#93a8bf
+palette = 8=#7d93ad
+palette = 9=#ff879b
+palette = 10=#77ffc2
+palette = 11=#ffcb7e
+palette = 12=#92e0ff
+palette = 13=#d8b3ff
+palette = 14=#3ef0ff
+palette = 15=#d6e4f2
+background = #080e19
+foreground = #c2cfdc
+cursor-color = #5ee1ff
+cursor-text = #080e19
+selection-background = #142c3d
+selection-foreground = #d6e4f2
+split-divider-color = #275e6d

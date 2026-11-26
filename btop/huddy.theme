@@ -1,0 +1,91 @@
+#HUDdy theme for btop 1.1 — HUDdy Soft Contrast Spec 1.0. MIT, David Rush.
+
+#Main background
+theme[main_bg]="#080e19"
+
+#Main text
+theme[main_fg]="#c2cfdc"
+
+#Box titles
+theme[title]="#5ee1ff"
+
+#Highlighted key letters
+theme[hi_fg]="#ffb547"
+
+#Selected process row
+theme[selected_bg]="#142c3d"
+
+#Selected process text
+theme[selected_fg]="#5ee1ff"
+
+#Inactive / unused graph text
+theme[inactive_fg]="#404c5c"
+
+#Graph labels and dimmed text (btop)
+theme[graph_text]="#7d93ad"
+
+#Meter background (btop)
+theme[meter_bg]="#1b2e41"
+
+#Process box mini cpu graph, misc
+theme[proc_misc]="#3dffa8"
+
+#CPU box outline
+theme[cpu_box]="#47aac2"
+
+#Memory box outline
+theme[mem_box]="#47aac2"
+
+#Net box outline
+theme[net_box]="#47aac2"
+
+#Process box outline
+theme[proc_box]="#47aac2"
+
+#Box dividers
+theme[div_line]="#275e6d"
+
+#Temperature graph gradient (start, mid, end)
+theme[temp_start]="#64d2ff"
+theme[temp_mid]="#ffb547"
+theme[temp_end]="#ff5470"
+
+#CPU usage graph gradient (start, mid, end)
+theme[cpu_start]="#3dffa8"
+theme[cpu_mid]="#ffb547"
+theme[cpu_end]="#ff5470"
+
+#Free memory graph gradient (start, mid, end)
+theme[free_start]="#1a6a4a"
+theme[free_mid]=""
+theme[free_end]="#3dffa8"
+
+#Cached memory graph gradient (start, mid, end)
+theme[cached_start]="#2a586d"
+theme[cached_mid]=""
+theme[cached_end]="#64d2ff"
+
+#Available memory graph gradient (start, mid, end)
+theme[available_start]="#684c23"
+theme[available_mid]=""
+theme[available_end]="#ffb547"
+
+#Used memory graph gradient (start, mid, end)
+theme[used_start]="#682533"
+theme[used_mid]=""
+theme[used_end]="#ff5470"
+
+#Download graph gradient (start, mid, end)
+theme[download_start]="#275e6d"
+theme[download_mid]="#5ee1ff"
+theme[download_end]="#aef0ff"
+
+#Upload graph gradient (start, mid, end)
+theme[upload_start]="#1a6a4a"
+theme[upload_mid]="#3dffa8"
+theme[upload_end]="#77ffc2"
+
+#Process cpu usage graph gradient (start, mid, end)
+theme[process_start]="#3dffa8"
+theme[process_mid]="#ffb547"
+theme[process_end]="#ff5470"
